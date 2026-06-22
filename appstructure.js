@@ -4,7 +4,7 @@ const menuList = document.querySelector('.hidemenu');
 menuBtn.onclick = function () {
     menuList.classList.toggle('show');
 };
-document.getElementById("contactForm").addEventListener("submit", function(e) {
+document.getElementById("contact").addEventListener("submit", function(e) {
     e.preventDefault();
     alert("Message submitted successfully!");
 });
