@@ -33,7 +33,8 @@ body.dark-mode{
 .logo:hover {
     cursor: pointer;
 }
-
+.nav li a {color:black;
+          background-color:white;}
 /* HEADER TEXT */
 .header-text {
     text-align: center;
