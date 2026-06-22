@@ -120,6 +120,7 @@ h2 {
     color:black;
     text-align: center;
 }
+ul.hidemenu {background-color:yellow;}
 
 .nav a:hover {
     background-color: red;
