@@ -248,3 +248,16 @@ nav {
         text-align: center;
     }
 }
+
+.dark-mode{
+    nav a{
+        color: #000;
+    }
+    .section .btn{
+        background-color: yellow;
+        color: black;
+    }
+    .footer-bottom{
+        color: white;
+    }
+}
