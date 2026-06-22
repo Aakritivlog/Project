@@ -7,9 +7,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
-body.project-container {
-    color:black;
-}
+h3 {color:black;
+   }
+
+p {color:black;}
 body.dark-mode{
     background-color:black;
     color:white;
