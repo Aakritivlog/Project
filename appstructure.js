@@ -22,7 +22,7 @@ darkBtn.addEventListener("click", () => {
 });
 
 /* api*/
-fetch("https://api.openweathermap.org/data/2.5/weather?q=Gurugram&appid=YOUR_API_KEY&units=metric")
+fetch("https://api.openweathermap.org/data/2.5/weather?q=Gurugram&appid=ed8efe9c4202b10263467718556cc634&units=metric")
   .then(res => res.json())
   .then(data => {
     console.log(data);
