@@ -11,6 +11,9 @@ h3 {color:black;
    }
 
 p {color:black;}
+h5{
+    color:white;
+}
 body.dark-mode{
     background-color:black;
     color:white;
